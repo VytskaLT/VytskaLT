@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VytskaLT
 - 👀 I’m interested in Minecraft (1.8.8) and networking.
-- 🌱 I’m currently learning more Java optimisations.
 - 📫 I have a Discord: vytskalt#4467
 
 <!---
